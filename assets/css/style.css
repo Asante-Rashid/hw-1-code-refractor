@@ -54,7 +54,7 @@ p {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-image: url("../images/digital-marketing-meeting.jpg") ;
     background-size: cover;
     background-position: center;
 }
@@ -161,7 +161,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* images and h2 in this container should be consolodated */
 .search-engine-optimization img {
     max-height: 200px;
 }
